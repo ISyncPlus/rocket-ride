@@ -1,1 +1,1 @@
-#A Pure Tailwind Try-out
+A Pure Tailwind Try-out
